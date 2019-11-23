@@ -1,5 +1,11 @@
 # Sheplusplus
 Contribuye a este repositorio creado para el taller "Introducción al uso de GitHub" de la primera edición del evento She++.
+
+-[x] insertar imágenes 
+-[x] diferentes tipos de fuentes
+-[x] citas 
+-[x] tablas
+
 ![alt texto] [logo]
 [logo]:  https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRs9Ad2TX5FzOCzHGr5SfCyfO7NEFIw1cBmlfOsaY6Gwt1NO4d3
 Lenguajes de Programación | Proyectos
@@ -45,7 +51,6 @@ TABLAS
  Content from|Content from 
  Content from|Content from
  
-=======
 
 Porcentaje Aprendido en lenguajes de Programación
 - [X] Aprender Visual.Net (80%)
@@ -175,6 +180,8 @@ Fin
 [x] diferentes tipos de fuentes
 [x] citas 
 [x] tablas
+
 ![alt text][logo]
+
 [logo]: https://media.tenor.com/images/ef30b7cc3f406147e3c3cfe1833d8690/tenor.gif
 
